@@ -8,8 +8,7 @@ This project compares these two types of posts to determine:
 * Do posts created at a certain time receive more comments on average?
 
 
-This project brings the following skills together:
-
+### Skills Demonstrated:
 * How to work with strings
 * Object-oriented programming
 * Dates and times
