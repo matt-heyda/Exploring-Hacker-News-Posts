@@ -6,3 +6,14 @@ This project compares these two types of posts to determine:
 
 * Do 'Ask HN' or 'Show HN' receive more comments on average?
 * Do posts created at a certain time receive more comments on average?
+
+
+## Sections within the Notebook:
+#### 1) Introduction
+#### 2) Reading Data, Creating Lists of Lists, and Removing Header
+#### 3) Extracting Ask HN and Show HN Posts
+#### 4) Calculating the Average Number of Comments for Ask HN and Show HN Posts 
+#### 5) Finding the Amount of Ask Posts and Comments by Hour Created
+#### 6) Calculating the Average Number of Comments for Ask HN Posts by Hour
+#### 7) Sorting and Printing Values from a List of Lists
+#### 8) Conclusion
