@@ -6,9 +6,3 @@ This project compares these two types of posts to determine:
 
 * Do 'Ask HN' or 'Show HN' receive more comments on average?
 * Do posts created at a certain time receive more comments on average?
-
-
-#### Skills Demonstrated:
-* How to work with strings
-* Object-oriented programming
-* Dates and times
