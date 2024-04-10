@@ -19,5 +19,5 @@ This project compares these two types of posts to determine:
 #### 6) Calculating the Average Number of Comments for Ask HN Posts by Hour
 #### 7) Sorting and Printing Values from a List of Lists
 #### 8) Determining Whether Show or Ask Posts Receive More Points on Average
-#### 9) Determining Whether Show HN Posts Created at a Certain Time are More Likely to Receive More Points
+#### 9) Calculating the Average Number of Points for Show HN Posts by Hour
 #### 10) Conclusion
