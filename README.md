@@ -1,4 +1,4 @@
-# Exploring Hacker News Posts
+# Optimising Engagement on Hacker News: Peak Interaction Times for Posts
 
 This project is an exploration of submissions made on the Hacker News website. The submissions of interest are the ones that begin with the titles 'Show HN' and 'Ask HN'. 'Show HN' posts are submitted to show the Hacker News community a project, product, or, simply, something interesting. While 'Ask HN' submissions ask the community a specific question.
 
